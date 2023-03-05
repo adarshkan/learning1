@@ -1,4 +1,4 @@
-# Learning1
+# Learning1: Edit 1
 ## Adarsh Kante
 ### Mar 4. 2022
  _VS Code Beginning_
