@@ -13,6 +13,7 @@
 ## URL should be https://studentsi.com
 
 
-# Production Environment steps
+# Production Environment steps are below
 
 ## URL should be https://student.com
+### Executed below is smoke test.
